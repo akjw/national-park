@@ -15,15 +15,6 @@ The lab will be broken down into two parts:
 - Props and state
 - React Router
 
-## Instructions
-
-1. Fork and clone this repository.
-1. Change into the new directory.
-1. Install dependencies.
-1. Fulfill the listed requirements.
-
-Please turn in your submission by the deadline on your cohort calendar.
-
 ## Requirements
 
 You will be building out a website listing all of the National Parks.
